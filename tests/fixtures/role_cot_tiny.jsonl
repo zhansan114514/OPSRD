@@ -1,0 +1,1 @@
+{"source_index": 0, "source": "smoke", "problem": "Compute 1+1.", "answer": "2", "solution": "<think>Adding one and one gives two.</think>\nThe result is \\boxed{2}.", "selected_token_count": 20, "condition": "role"}
